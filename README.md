@@ -37,7 +37,7 @@ Os critérios foram:
 
 ## 🌎 Como acessar o projeto
 
-- [Link do surge](https://far-flung-quilt.surge.sh/)
+- [Link do surge](https://adorable-giraffe.surge.sh/)
 
 
 ## 🚀 Tecnologias utilizadas
